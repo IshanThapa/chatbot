@@ -17,7 +17,7 @@
     "zlib >=1.2.13,<1.3.0a0",
     "pip"
   ],
-  "extracted_package_dir": "C:\\Users\\crucial\\AppData\\Local\\anaconda3\\pkgs\\python-3.11.7-he1021f5_0",
+  "extracted_package_dir": "C:\\Users\\thapa\\anaconda3\\pkgs\\python-3.11.7-he1021f5_0",
   "files": [
     "DLLs/_asyncio.pyd",
     "DLLs/_bz2.pyd",
@@ -2427,16 +2427,14 @@
     ".nonadmin"
   ],
   "fn": "python-3.11.7-he1021f5_0.conda",
-  "legacy_bz2_md5": "0f090b0406cda2ee851f6148d2e2dd45",
   "license": "PSF-2.0",
-  "license_family": "PSF",
   "link": {
-    "source": "C:\\Users\\crucial\\AppData\\Local\\anaconda3\\pkgs\\python-3.11.7-he1021f5_0",
+    "source": "C:\\Users\\thapa\\anaconda3\\pkgs\\python-3.11.7-he1021f5_0",
     "type": 1
   },
   "md5": "912bc7b9c3fe45c1e546839a9addf707",
   "name": "python",
-  "package_tarball_full_path": "C:\\Users\\crucial\\AppData\\Local\\anaconda3\\pkgs\\python-3.11.7-he1021f5_0.conda",
+  "package_tarball_full_path": "C:\\Users\\thapa\\anaconda3\\pkgs\\python-3.11.7-he1021f5_0.conda",
   "paths_data": {
     "paths": [
       {
@@ -19290,7 +19288,7 @@
   "sha256": "b61e197996a82a2e9576f7e0f34b7928c7f8e3194d0aea81a6435ab9957b1afc",
   "size": 19042294,
   "subdir": "win-64",
-  "timestamp": 1702663845039,
+  "timestamp": 1702663845000,
   "url": "https://repo.anaconda.com/pkgs/main/win-64/python-3.11.7-he1021f5_0.conda",
   "version": "3.11.7"
 }

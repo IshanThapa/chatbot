@@ -7,7 +7,7 @@
     "vc >=14.1,<15.0a0",
     "vs2015_runtime >=14.16.27012,<15.0a0"
   ],
-  "extracted_package_dir": "C:\\Users\\crucial\\AppData\\Local\\anaconda3\\pkgs\\libffi-3.4.4-hd77b12b_0",
+  "extracted_package_dir": "C:\\Users\\thapa\\anaconda3\\pkgs\\libffi-3.4.4-hd77b12b_0",
   "files": [
     "Library/bin/ffi-7.dll",
     "Library/bin/ffi-8.dll",
@@ -23,16 +23,14 @@
     ".nonadmin"
   ],
   "fn": "libffi-3.4.4-hd77b12b_0.conda",
-  "legacy_bz2_md5": "5cdcd99f18d9dedb772d272088e72b4c",
   "license": "MIT",
-  "license_family": "MIT",
   "link": {
-    "source": "C:\\Users\\crucial\\AppData\\Local\\anaconda3\\pkgs\\libffi-3.4.4-hd77b12b_0",
+    "source": "C:\\Users\\thapa\\anaconda3\\pkgs\\libffi-3.4.4-hd77b12b_0",
     "type": 1
   },
   "md5": "0a01fe57e6261e7c574e43f2b1385f48",
   "name": "libffi",
-  "package_tarball_full_path": "C:\\Users\\crucial\\AppData\\Local\\anaconda3\\pkgs\\libffi-3.4.4-hd77b12b_0.conda",
+  "package_tarball_full_path": "C:\\Users\\thapa\\anaconda3\\pkgs\\libffi-3.4.4-hd77b12b_0.conda",
   "paths_data": {
     "paths": [
       {
@@ -119,7 +117,7 @@
   "sha256": "e794277146eedbce79b23dbc3cee877e9222bac756a9bbfec971a14a667d10cb",
   "size": 115307,
   "subdir": "win-64",
-  "timestamp": 1683716620230,
+  "timestamp": 1683716620000,
   "url": "https://repo.anaconda.com/pkgs/main/win-64/libffi-3.4.4-hd77b12b_0.conda",
   "version": "3.4.4"
 }

@@ -8,7 +8,7 @@
     "vc >=14.1,<15.0a0",
     "vs2015_runtime >=14.16.27012,<15.0a0"
   ],
-  "extracted_package_dir": "C:\\Users\\crucial\\AppData\\Local\\anaconda3\\pkgs\\openssl-3.0.13-h2bbff1b_0",
+  "extracted_package_dir": "C:\\Users\\thapa\\anaconda3\\pkgs\\openssl-3.0.13-h2bbff1b_0",
   "files": [
     "Library/bin/c_rehash.pl",
     "Library/bin/libcrypto-3-x64.dll",
@@ -172,16 +172,14 @@
     ".nonadmin"
   ],
   "fn": "openssl-3.0.13-h2bbff1b_0.conda",
-  "legacy_bz2_md5": "39fdacf2d8eaeca0aac16629c415b5b7",
   "license": "Apache-2.0",
-  "license_family": "Apache",
   "link": {
-    "source": "C:\\Users\\crucial\\AppData\\Local\\anaconda3\\pkgs\\openssl-3.0.13-h2bbff1b_0",
+    "source": "C:\\Users\\thapa\\anaconda3\\pkgs\\openssl-3.0.13-h2bbff1b_0",
     "type": 1
   },
   "md5": "d4507a6ac21b01c07d04b59ec379fd95",
   "name": "openssl",
-  "package_tarball_full_path": "C:\\Users\\crucial\\AppData\\Local\\anaconda3\\pkgs\\openssl-3.0.13-h2bbff1b_0.conda",
+  "package_tarball_full_path": "C:\\Users\\thapa\\anaconda3\\pkgs\\openssl-3.0.13-h2bbff1b_0.conda",
   "paths_data": {
     "paths": [
       {
@@ -190,7 +188,7 @@
         "path_type": "hardlink",
         "prefix_placeholder": "C:\\\\b\\\\abs_e5smj6m3rv\\\\croot\\\\openssl_1706908626403\\\\_h_env",
         "sha256": "96164eab5756b470613161b4b319b8ee3a78d800e426a12c9fe9073f454c30a2",
-        "sha256_in_prefix": "b1a182f26a24d3c94f800178261d586577dcf21eb4d3375e2786c5fb20a653e7",
+        "sha256_in_prefix": "b94280ee89effad18bedf6975c1265ef816dede8346c3ae5db71a8ffc8c47371",
         "size_in_bytes": 7268
       },
       {
@@ -1314,7 +1312,7 @@
   "sha256": "165504052f1083f271a10704687d65c8e5e830bab537c3795841f5de7e8de728",
   "size": 7801567,
   "subdir": "win-64",
-  "timestamp": 1706911036188,
+  "timestamp": 1706911036000,
   "url": "https://repo.anaconda.com/pkgs/main/win-64/openssl-3.0.13-h2bbff1b_0.conda",
   "version": "3.0.13"
 }

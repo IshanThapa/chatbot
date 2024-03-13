@@ -8,7 +8,7 @@
     "setuptools",
     "wheel"
   ],
-  "extracted_package_dir": "C:\\Users\\crucial\\AppData\\Local\\anaconda3\\pkgs\\pip-23.3.1-py311haa95532_0",
+  "extracted_package_dir": "C:\\Users\\thapa\\anaconda3\\pkgs\\pip-23.3.1-py311haa95532_0",
   "files": [
     "Lib/site-packages/pip-23.3.1-py3.11.egg-info/PKG-INFO",
     "Lib/site-packages/pip-23.3.1-py3.11.egg-info/SOURCES.txt",
@@ -1022,16 +1022,14 @@
     ".nonadmin"
   ],
   "fn": "pip-23.3.1-py311haa95532_0.conda",
-  "legacy_bz2_md5": "1b0f29aa3fc57cc8d5a48ae392aa8567",
   "license": "MIT",
-  "license_family": "MIT",
   "link": {
-    "source": "C:\\Users\\crucial\\AppData\\Local\\anaconda3\\pkgs\\pip-23.3.1-py311haa95532_0",
+    "source": "C:\\Users\\thapa\\anaconda3\\pkgs\\pip-23.3.1-py311haa95532_0",
     "type": 1
   },
   "md5": "9c77845853e226fdd18dd5d9b4eb4ba9",
   "name": "pip",
-  "package_tarball_full_path": "C:\\Users\\crucial\\AppData\\Local\\anaconda3\\pkgs\\pip-23.3.1-py311haa95532_0.conda",
+  "package_tarball_full_path": "C:\\Users\\thapa\\anaconda3\\pkgs\\pip-23.3.1-py311haa95532_0.conda",
   "paths_data": {
     "paths": [
       {
@@ -8104,7 +8102,7 @@
   "sha256": "24c6bdfe08f079edc67643c7a4ecda3a6e4d38bb42c512616c2bfbb56e4848aa",
   "size": 3695381,
   "subdir": "win-64",
-  "timestamp": 1700667933959,
+  "timestamp": 1700667933000,
   "url": "https://repo.anaconda.com/pkgs/main/win-64/pip-23.3.1-py311haa95532_0.conda",
   "version": "23.3.1"
 }

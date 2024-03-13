@@ -7,7 +7,7 @@
     "vc >=14.1,<15.0a0",
     "vs2015_runtime >=14.16.27012,<15.0a0"
   ],
-  "extracted_package_dir": "C:\\Users\\crucial\\AppData\\Local\\anaconda3\\pkgs\\tk-8.6.12-h2bbff1b_0",
+  "extracted_package_dir": "C:\\Users\\thapa\\anaconda3\\pkgs\\tk-8.6.12-h2bbff1b_0",
   "files": [
     "Library/bin/tcl86t.dll",
     "Library/bin/tclsh.exe",
@@ -1111,16 +1111,14 @@
     ".nonadmin"
   ],
   "fn": "tk-8.6.12-h2bbff1b_0.conda",
-  "legacy_bz2_md5": "52cdcdb96383c010ca833a7c24b3935b",
   "license": "Tcl/Tk",
-  "license_family": "BSD",
   "link": {
-    "source": "C:\\Users\\crucial\\AppData\\Local\\anaconda3\\pkgs\\tk-8.6.12-h2bbff1b_0",
+    "source": "C:\\Users\\thapa\\anaconda3\\pkgs\\tk-8.6.12-h2bbff1b_0",
     "type": 1
   },
   "md5": "3e6f2cd798aea9f886970b61dad14304",
   "name": "tk",
-  "package_tarball_full_path": "C:\\Users\\crucial\\AppData\\Local\\anaconda3\\pkgs\\tk-8.6.12-h2bbff1b_0.conda",
+  "package_tarball_full_path": "C:\\Users\\thapa\\anaconda3\\pkgs\\tk-8.6.12-h2bbff1b_0.conda",
   "paths_data": {
     "paths": [
       {
@@ -7368,7 +7366,7 @@
         "path_type": "hardlink",
         "prefix_placeholder": "C:\\ci\\tk_1654036608655\\_h_env",
         "sha256": "0e25661c8c30b8c71f55751aa39ddccd5f707f33858823c742ad87ec5c04317d",
-        "sha256_in_prefix": "be57cc5b07ca896fa230c0ce76e7256cf787c5947bb58a35ddefb2450f54080f",
+        "sha256_in_prefix": "92f663c28e36d052c77955cd026fbe5b946fbfbdcbf64eefa08d54178837b7f9",
         "size_in_bytes": 7861
       },
       {
@@ -7419,7 +7417,7 @@
         "path_type": "hardlink",
         "prefix_placeholder": "C:\\ci\\tk_1654036608655\\_h_env",
         "sha256": "39de1c4c83f52eb8b89f56f8bf48934be435ddf8ae9c56f014c2df07d17a4c24",
-        "sha256_in_prefix": "0409c4938a93c828e11a89598f770dfb7a5478c8576ce930954e5559ef4dc772",
+        "sha256_in_prefix": "e6dcd09e90d9afa7c2e5aca94d4bd5497f7fbda9f082c8f770f84e89e2451d6d",
         "size_in_bytes": 3958
       },
       {
@@ -8829,7 +8827,7 @@
   "sha256": "d66e336b291afef281c6e320380313f10d396df392f169f5bbcea04dfcbf9e1b",
   "size": 3229518,
   "subdir": "win-64",
-  "timestamp": 1654036853710,
+  "timestamp": 1654036853000,
   "url": "https://repo.anaconda.com/pkgs/main/win-64/tk-8.6.12-h2bbff1b_0.conda",
   "version": "8.6.12"
 }
