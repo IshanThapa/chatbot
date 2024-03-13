@@ -12,7 +12,7 @@ dvc == 3.44.0
 spacy-loggers == 1.0.5
 #torch == 2.2.0 #using it on gpu pipy page has installation heading.
 #-e .
-#source C:/Users/crucial/AppData/Local/anaconda3/Scripts/activate
+#source "C:\Users\thapa\anaconda3\Scripts\activate"
 #conda activate ./env
 
 #python A:/MY_PROJECTS/qsar/src/Drug_EDA/pipelines/training_pipeline.py
