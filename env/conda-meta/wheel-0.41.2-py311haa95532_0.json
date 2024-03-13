@@ -6,7 +6,7 @@
   "depends": [
     "python >=3.11,<3.12.0a0"
   ],
-  "extracted_package_dir": "C:\\Users\\thapa\\anaconda3\\pkgs\\wheel-0.41.2-py311haa95532_0",
+  "extracted_package_dir": "C:\\Users\\crucial\\AppData\\Local\\anaconda3\\pkgs\\wheel-0.41.2-py311haa95532_0",
   "files": [
     "Lib/site-packages/wheel-0.41.2.dist-info/LICENSE.txt",
     "Lib/site-packages/wheel-0.41.2.dist-info/METADATA",
@@ -73,14 +73,16 @@
     ".nonadmin"
   ],
   "fn": "wheel-0.41.2-py311haa95532_0.conda",
+  "legacy_bz2_md5": "e65f8ba947e678d66a8a9bd18e332e04",
   "license": "MIT",
+  "license_family": "MIT",
   "link": {
-    "source": "C:\\Users\\thapa\\anaconda3\\pkgs\\wheel-0.41.2-py311haa95532_0",
+    "source": "C:\\Users\\crucial\\AppData\\Local\\anaconda3\\pkgs\\wheel-0.41.2-py311haa95532_0",
     "type": 1
   },
   "md5": "2630c76256265a6921bb83e72d9a3255",
   "name": "wheel",
-  "package_tarball_full_path": "C:\\Users\\thapa\\anaconda3\\pkgs\\wheel-0.41.2-py311haa95532_0.conda",
+  "package_tarball_full_path": "C:\\Users\\crucial\\AppData\\Local\\anaconda3\\pkgs\\wheel-0.41.2-py311haa95532_0.conda",
   "paths_data": {
     "paths": [
       {
@@ -524,7 +526,7 @@
   "sha256": "5d34a498ea206a4f708c48db42ddbd61322c3002e6eccd41d1ee8e0efbfb7c40",
   "size": 166718,
   "subdir": "win-64",
-  "timestamp": 1695742144000,
+  "timestamp": 1695742144881,
   "url": "https://repo.anaconda.com/pkgs/main/win-64/wheel-0.41.2-py311haa95532_0.conda",
   "version": "0.41.2"
 }
