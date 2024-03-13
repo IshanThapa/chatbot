@@ -1,6 +1,5 @@
 #pip install -r requirements.txt
-
-numpy == 1.26.4
+numpy == 1.25.0
 tensorflow == 2.15.0
 pandas == 2.2.0
 scikit-learn == 1.4.0
@@ -12,8 +11,9 @@ dvc == 3.44.0
 spacy-loggers == 1.0.5
 #torch == 2.2.0 #using it on gpu pipy page has installation heading.
 #-e .
+<<<<<<< HEAD
 #source "C:\Users\thapa\anaconda3\Scripts\activate"
+=======
+#source "C:\Users\crucial\miniconda3\Scripts\activate"
+>>>>>>> ace3bf3f77a3c3f246094fad8e850734d3ba225e
 #conda activate ./env
-
-#python A:/MY_PROJECTS/qsar/src/Drug_EDA/pipelines/training_pipeline.py
-
